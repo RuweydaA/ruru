@@ -37,6 +37,6 @@ jobs:
       run: uv sync --dev
 
     - name: run app
-      run: uv run hello
+      run: uv run hello.py
     
       
